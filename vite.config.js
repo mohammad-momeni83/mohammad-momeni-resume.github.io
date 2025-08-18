@@ -8,4 +8,5 @@ export default defineConfig({
         react(),
         tailwindcss()
     ],
+    base: '/mohammad-momeni-CV.github.io/'
 })
